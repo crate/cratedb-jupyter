@@ -1,2 +1,5 @@
-# cratedb-jupyter
-Repository containing jupyter notebooks in addition to our machine learning blog post.  
+# Machine Learning and CrateDB
+
+Companion repository for the [Machine Learning and
+CrateDB](https://crate.io/a/machine-learning-and-cratedb-part-one/) blog post
+miniseries.
